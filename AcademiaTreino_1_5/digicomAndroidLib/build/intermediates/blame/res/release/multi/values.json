@@ -1,0 +1,376 @@
+[
+    {
+        "outputFile": "E:\\Fontes\\ProjetosAndroidStudio\\AcademiaTreino_1_5\\digicomAndroidLib\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "E:\\Fontes\\ProjetosAndroidStudio\\AcademiaTreino_1_5\\digicomAndroidLib\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 49,
+                        "endOffset": 64
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 44,
+                    "endOffset": 145
+                },
+                "from": {
+                    "file": "E:\\Fontes\\ProjetosAndroidStudio\\AcademiaTreino_1_5\\digicomAndroidLib\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endColumn": 44,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 150,
+                    "endColumn": 44,
+                    "endOffset": 190
+                },
+                "from": {
+                    "file": "E:\\Fontes\\ProjetosAndroidStudio\\AcademiaTreino_1_5\\digicomAndroidLib\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 255,
+                        "endColumn": 44,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 195,
+                    "endColumn": 44,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "E:\\Fontes\\ProjetosAndroidStudio\\AcademiaTreino_1_5\\digicomAndroidLib\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endColumn": 44,
+                        "endOffset": 341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endColumn": 44,
+                    "endOffset": 280
+                },
+                "from": {
+                    "file": "E:\\Fontes\\ProjetosAndroidStudio\\AcademiaTreino_1_5\\digicomAndroidLib\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 44,
+                        "endOffset": 387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 285,
+                    "endColumn": 44,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "E:\\Fontes\\ProjetosAndroidStudio\\AcademiaTreino_1_5\\digicomAndroidLib\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 393,
+                        "endColumn": 44,
+                        "endOffset": 433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 57,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "E:\\Fontes\\ProjetosAndroidStudio\\AcademiaTreino_1_5\\digicomAndroidLib\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 132,
+                        "endColumn": 57,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 388,
+                    "endColumn": 58,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "E:\\Fontes\\ProjetosAndroidStudio\\AcademiaTreino_1_5\\digicomAndroidLib\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 72,
+                        "endColumn": 58,
+                        "endOffset": 126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 2048,
+                    "endColumn": 43,
+                    "endOffset": 2087
+                },
+                "from": {
+                    "file": "E:\\Fontes\\ProjetosAndroidStudio\\AcademiaTreino_1_5\\digicomAndroidLib\\build\\intermediates\\exploded-aar\\com.android.support\\gridlayout-v7\\18.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 8767,
+                        "endColumn": 43,
+                        "endOffset": 8806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2092,
+                    "endColumn": 52,
+                    "endOffset": 2140
+                },
+                "from": {
+                    "file": "E:\\Fontes\\ProjetosAndroidStudio\\AcademiaTreino_1_5\\digicomAndroidLib\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 52,
+                        "endOffset": 341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2145,
+                    "endColumn": 54,
+                    "endOffset": 2195
+                },
+                "from": {
+                    "file": "E:\\Fontes\\ProjetosAndroidStudio\\AcademiaTreino_1_5\\digicomAndroidLib\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 54,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2200,
+                    "endColumn": 86,
+                    "endOffset": 2282
+                },
+                "from": {
+                    "file": "E:\\Fontes\\ProjetosAndroidStudio\\AcademiaTreino_1_5\\digicomAndroidLib\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 86,
+                        "endOffset": 429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2287,
+                    "endColumn": 64,
+                    "endOffset": 2347
+                },
+                "from": {
+                    "file": "E:\\Fontes\\ProjetosAndroidStudio\\AcademiaTreino_1_5\\digicomAndroidLib\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endColumn": 64,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2352,
+                    "endColumn": 62,
+                    "endOffset": 2410
+                },
+                "from": {
+                    "file": "E:\\Fontes\\ProjetosAndroidStudio\\AcademiaTreino_1_5\\digicomAndroidLib\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 62,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2415,
+                    "endColumn": 46,
+                    "endOffset": 2457
+                },
+                "from": {
+                    "file": "E:\\Fontes\\ProjetosAndroidStudio\\AcademiaTreino_1_5\\digicomAndroidLib\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 46,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2462,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 2748
+                },
+                "from": {
+                    "file": "E:\\Fontes\\ProjetosAndroidStudio\\AcademiaTreino_1_5\\digicomAndroidLib\\build\\intermediates\\exploded-aar\\AcademiaTreino_1_5\\digicomFtpLib\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2753,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 2908
+                },
+                "from": {
+                    "file": "E:\\Fontes\\ProjetosAndroidStudio\\AcademiaTreino_1_5\\digicomAndroidLib\\build\\intermediates\\exploded-aar\\AcademiaTreino_1_5\\digicomFtpLib\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2913,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 3155
+                },
+                "from": {
+                    "file": "E:\\Fontes\\ProjetosAndroidStudio\\AcademiaTreino_1_5\\digicomAndroidLib\\src\\main\\res\\values\\theme.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 417,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3160,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 3415
+                },
+                "from": {
+                    "file": "E:\\Fontes\\ProjetosAndroidStudio\\AcademiaTreino_1_5\\digicomAndroidLib\\src\\main\\res\\values\\theme.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 120,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 378
+                    }
+                }
+            }
+        ]
+    }
+]
